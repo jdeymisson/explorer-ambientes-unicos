@@ -49,3 +49,9 @@ p, #footer {
 
   border-top: 1px solid #ECEFF2;
 }
+
+#balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
