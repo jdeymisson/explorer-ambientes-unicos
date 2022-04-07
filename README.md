@@ -1,7 +1,7 @@
 <h1 align="center"  >Móveis Customizados 🛋 </h1>
 
 ## 📕 Sobre
-Esse projeto foi desenvolvido durante a segunda semana do treinamento Explorer da Rocketseat,  deu para aplicar e revisar bastante conceitos como elementos inlines/block, positions, espaçamentos e estilos de fontes.
+Esse projeto foi desenvolvido durante a segunda semana do treinamento Explorer da Rocketseat,  nele fpo deu para aplicar e revisar conceitos como elementos inlines/block, positions, espaçamentos e estilos de fontes.
 
 ## Layout da Página 💻
 
